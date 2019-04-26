@@ -1,5 +1,7 @@
 # Deep Learning - The Straight Dope
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brianmcconnel/mxnet-the-straight-dope/master)
+
 ## Note: [Straight Dope is growing up] ---> Much of this content has been incorporated into the new Dive into Deep Learning Book available at https://d2l.ai/
 
 ## Abstract
